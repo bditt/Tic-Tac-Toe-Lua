@@ -8,13 +8,13 @@ Features:
 - [X] Spot checking.
 - [X] Ugly code.
 - [X] Some comments.
-- [] Cleaned code.
-- [] The ability to switch between bot mode and two player mode.
-- [] A restart option.
+- [ ] Cleaned code.
+- [ ] The ability to switch between bot mode and two player mode.
+- [ ] A restart option.
 
 Todo:
-- [] Clean up the code.
-- [] Add better/more comments.
-- [] Make it more efficient.
-- [] Add the ability to switch between bot mode and two player mode.
-- [] Add a restart option.
+- [ ] Clean up the code.
+- [ ] Add better/more comments.
+- [ ] Make it more efficient.
+- [ ] Add the ability to switch between bot mode and two player mode.
+- [ ] Add a restart option.
