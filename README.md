@@ -3,7 +3,7 @@ The Internet was down at work so I wrote this because I was bored.
 This is a tic tac toe game I wrote.
 
 Features:
-- [X] Win checking.
+- [x] Win checking.
 - [X] A "bot" mode.
 - [X] Spot checking.
 - [X] Ugly code.
